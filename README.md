@@ -1,6 +1,6 @@
 # Phalguni-Abhilash-social-media-app
 
-[link to project](https://agile-dusk-99304.herokuapp.com/)
+[link to  project : Live ](https://agile-dusk-99304.herokuapp.com/)
 
 ##	Social network application using Node.js, Express, React, Redux and MongoDB along with ES6.
 ---
