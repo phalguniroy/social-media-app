@@ -1,6 +1,6 @@
 {
 
-    "mongoURI": "mongodb+srv://phalguni:phalguni@cluster0-8tbbj.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecret"
+    "mongoURI": "",
+    "jwtSecret": ""
     
     }
